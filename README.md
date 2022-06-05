@@ -35,7 +35,7 @@ paralize edecektir. Paralize olan bir Devekuşu, yarışın geri kalanında hiç
 2) Mekanik Fil, bir Devekuşunu arkadan başlayarak bir Devekuşuyla aynı pozisyona gelirse, Devekuşunun ayağına %20
 olasılıkla basarak Devekuşunu sakatlayarak paralize edecektir. Paralize olan bir Devekuşu, yarışın geri kalanında hiç
 hareket etmeyecektir.
-3) SalyanBotlarsürünme hareketi sonunda ulaştıkları yeni konumda bulunan hayvanları %25 ihtimalle çarparlar. Çarpılan bir
+3) SalyanBotlar sürünme hareketi sonunda ulaştıkları yeni konumda bulunan hayvanları %25 ihtimalle çarparlar. Çarpılan bir
 hayvan anlık olarak şoka girer ve geriye doğru devrilir. Bu durumda, hayvan bir konum geri gider. Çarpılma bunun dışında
 bir etki yaratmaz; hayvan yarış boyunca hareket etmeye devam edebilir.
 Herhangi bir yarışmacı bitiş çizgisini geçtiği anda yarışma sona ermiş olacaktır ve tüm yarışmacılar o anda bulundukları pozisyona
